@@ -1,2 +1,0 @@
-Database/QSG.dnmd filter=lfs diff=lfs merge=lfs -text
-Database/QSG_total_protein.fasta filter=lfs diff=lfs merge=lfs -text
